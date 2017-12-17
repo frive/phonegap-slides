@@ -1,0 +1,15 @@
+{
+  "name": "jg.pg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "remarker",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eli Rivera",
+  "license": "MIT",
+  "devDependencies": {
+    "remarker": "^1.5.1"
+  }
+}
