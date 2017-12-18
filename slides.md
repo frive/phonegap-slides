@@ -58,18 +58,22 @@ npm install -g phonegap@latest
 
 - Android
 
- - android sdk(cli)
+  - java
+  - gradle
+  - android sdk(cli)
+    - platforms
+
+- iOS
+
+  - development toolkit
 
 ---
 class: center, middle
 # Demo
 
 ---
-
-my-ben changes
-
-- service
-- app
+class: center, middle
+# Changes
 
 ---
 
@@ -77,13 +81,13 @@ my-ben changes
 
 - React Native
 - Titanium
-- NativeScript
 - Xamarin
+- NativeScript
 - Kony
 
 ---
 
-# Reference
+# Sources
 
 
 ???
