@@ -73,6 +73,16 @@ my-ben changes
 
 ---
 
+# Alternatives
+
+- React Native
+- Titanium
+- NativeScript
+- Xamarin
+- Kony
+
+---
+
 # Reference
 
 
