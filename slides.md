@@ -12,12 +12,10 @@ class: center, middle
 # API
 
 - Camera
-- Device Info
 - File
 - File Transfer
+- Device Info
 - Dialogs(notification)
---
-
 - Battery Status
 - Device Motion(Accelerometer)
 - Device Orientation(Compass)
@@ -36,7 +34,8 @@ class: center, middle
 
 # Tools
 
-- Phonegap CLI/Desktop
+- Phonegap CLI
+- Phonegap Desktop
 - Phonegap Mobile App
 
 ---
@@ -65,7 +64,7 @@ npm install -g phonegap@latest
 
 - iOS
 
-  - development toolkit
+  - Xcode
 
 ---
 class: center, middle
@@ -83,12 +82,22 @@ class: center, middle
 - Titanium
 - Xamarin
 - NativeScript
-- Kony
 
 ---
 
 # Sources
 
+### Phonegap
+
+- https://www.phonegap.com/
+- https://cordova.apache.org/
+
+### Misc
+
+- https://facebook.github.io/react-native/
+- https://www.appcelerator.org/#titanium
+- https://www.xamarin.com/
+- https://www.nativescript.org/
 
 ???
 
